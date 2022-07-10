@@ -125,3 +125,4 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Santa Catalina o Calovébora
     
   - Comarca Guna Yala
+    + No tiene distritos
