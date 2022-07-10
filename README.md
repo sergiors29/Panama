@@ -91,5 +91,26 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Chame
     + Distrito de San Carlos
   - Provincia de Veraguas
-  - Comarca Ngobe-Buglé
+    + Distrito de Atalaya
+    + Distrito de Mariato
+    + Distrito de Río de Jesús
+    + Distrito de Soná
+    + Distrito de Las Palmas
+    + Distrito de Cañazas
+    + Distrito de Santiago
+    + Distrito de Santa Fe
+    + Distrito de San Francisco
+    + Distrito de Montijo
+    + Distrito de La Mesa
+    + Distrito de Calobre
+  - Comarca Ngäbe-Buglé
+    + Distrito de Besikó
+    + Distrito de Jirondai
+    + Distrito de Kankintú
+    + Distrito de Kusapín
+    + Distrito de Mironó
+    + Distrito de Müna
+    + Distrito de Nole Duima
+    + Distrito de Ñürüm
+    + Distrito de Santa Catalina o Calovébora
   - Comarca Guna Yala
