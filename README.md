@@ -20,14 +20,14 @@ Por otro lado, se emplean listas desordenadas para,
 
 De otro modo, también podemos combinar listas ordenadas y desordenadas. Por ejemplo, para listas la clasificación entre país, provincias y distritos.
 
-1. República de Panamá
-  - Provincia de Bocas del Toro
+1. [República de Panamá](https://es.wikipedia.org/wiki/Panam%C3%A1)
+  - [Provincia de Bocas del Toro](https://es.wikipedia.org/wiki/Provincia_de_Bocas_del_Toro)
     + Distrito de Bocas del Toro (Isla Colón)
     + Distrito de Changuinola
     + Distrito de Almirante
     + Distrito de Chiriquí Grande
     
-  - Provincia de Coclé
+  - [Provincia de Coclé](https://es.wikipedia.org/wiki/Provincia_de_Cocl%C3%A9)
     + Distrito de Penonomé
     + Distrito de Aguadulce
     + Distrito de La Pintada
@@ -35,7 +35,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Olá
     + Distrito de Natá
     
-  - Provincia de Colón
+  - [Provincia de Colón](https://es.wikipedia.org/wiki/Provincia_de_Col%C3%B3n)
     + Distrito de Colón
     + Distrito de Portobelo
     + Distrito de Donoso
@@ -43,7 +43,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Santa Isabel
     + Distrito Especial Omar Torrijos Herrera
     
-  - Provincia de Chiriquí
+  - [Provincia de Chiriquí](https://es.wikipedia.org/wiki/Provincia_de_Chiriqu%C3%AD)
     + Distrito de Barú
     + Distrito de Renacimiento
     + Distrito de Bugaba
@@ -59,14 +59,14 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Dolega
     + Distrito de Gualaca
     
-  - Provincia de Darién
+  - [Provincia de Darién](https://es.wikipedia.org/wiki/Provincia_de_Dari%C3%A9n)
     + Distrito de Pinogana
     + Distrito de Chepigana
     + Distrito de Santa Fe
     + Distrito de Cémaco (Comarca Emberá)
     + Distrito de Sambú (Comarca Emberá)
     
-  - Provincia de Herrera
+  - [Provincia de Herrera](https://es.wikipedia.org/wiki/Provincia_de_Herrera)
     + Distrito de Chitré
     + Distrito de Los Pozos
     + Distrito de Pesé
@@ -75,7 +75,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Santa María
     + Distrito de Ocú
     
-  - Provincia de Los Santos
+  - [Provincia de Los Santos](https://es.wikipedia.org/wiki/Provincia_de_Los_Santos)
     + Distrito de Las Tablas
     + Distrito de Los Santos
     + Distrito de Macaracas
@@ -84,7 +84,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Pedasí
     + Distrito de Tonosí
     
-  - Provincia de Panamá
+  - [Provincia de Panamá](https://es.wikipedia.org/wiki/Provincia_de_Panam%C3%A1)
     + Distrito de Balboa
     + Distrito de Panamá
     + Distrito de San Miguelito
@@ -92,14 +92,14 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Chimán
     + Distrito de Taboga
     
-  - Provincia de Panamá Oeste
+  - [Provincia de Panamá Oeste](https://es.wikipedia.org/wiki/Provincia_de_Panam%C3%A1_Oeste)
     + Distrito de Arraiján
     + Distrito de La Chorrera
     + Distrito de Capira
     + Distrito de Chame
     + Distrito de San Carlos
     
-  - Provincia de Veraguas
+  - [Provincia de Veraguas](https://es.wikipedia.org/wiki/Provincia_de_Veraguas)
     + Distrito de Atalaya
     + Distrito de Mariato
     + Distrito de Río de Jesús
@@ -113,7 +113,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de La Mesa
     + Distrito de Calobre
     
-  - Comarca Ngäbe-Buglé
+  - [Comarca Ngäbe-Buglé](https://es.wikipedia.org/wiki/Comarca_Ng%C3%A4be-Bugl%C3%A9)
     + Distrito de Besikó
     + Distrito de Jirondai
     + Distrito de Kankintú
@@ -124,7 +124,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Ñürüm
     + Distrito de Santa Catalina o Calovébora
     
-  - Comarca Guna Yala
+  - [Comarca Guna Yala](https://es.wikipedia.org/wiki/Comarca_Guna_Yala)
     + No tiene distritos
     
 ## Segundo punto.
