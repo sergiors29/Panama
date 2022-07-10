@@ -1,8 +1,4 @@
-<center>
-  
 # Página principal de Panamá
-
-</center>
 
 Esta es la página principal de acceso a un nuevo repositorio de prueba, para afianzar conocimientos adquiridos en reciente curso universitario en España.
 
@@ -134,11 +130,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
 ## Segundo punto.
 
 Con la sintaxis de Markdown se pueden colocar imágenes de forma sencilla. Así:
-
-<center>
   
 ![Mapa de la República de Panamá](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mapa_de_Panam%C3%A1.svg/3014px-Mapa_de_Panam%C3%A1.svg.png)
 
-</center>
-
-
+El sistema tambien nos permite agregar enlaces para acceder a otros sitios web o documentos. Ejemplos ya planteados en lineas anteriores.
