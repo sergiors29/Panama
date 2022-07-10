@@ -21,7 +21,9 @@ Por otro lado, se emplean listas desordenadas para,
 De otro modo, también podemos combinar listas ordenadas y desordenadas. Por ejemplo, para listas la clasificación entre país, provincias y distritos.
 
 1. [República de Panamá](https://es.wikipedia.org/wiki/Panam%C3%A1)
+
 ![Ciudad de Panama(https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/panama/Panama_DYP_Header_CerroAncon_e5db5d4b-d6d7-4992-94e4-7c96220236be.jpg)
+
   - [Provincia de Bocas del Toro](https://es.wikipedia.org/wiki/Provincia_de_Bocas_del_Toro)
     + Distrito de Bocas del Toro (Isla Colón)
     + Distrito de Changuinola
