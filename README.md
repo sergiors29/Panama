@@ -131,6 +131,8 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
 
 Con la sintaxis de Markdown se pueden colocar imágenes de forma sencilla. Así:
 
+<center>
 ![Mapa de la República de Panamá](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mapa_de_Panam%C3%A1.svg/3014px-Mapa_de_Panam%C3%A1.svg.png)
+</center>
 
 
