@@ -25,12 +25,14 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
 ![Ciudad de Panama](https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/panama/Panama_DYP_Header_CerroAncon_e5db5d4b-d6d7-4992-94e4-7c96220236be.jpg)
 
   - [Provincia de Bocas del Toro](https://es.wikipedia.org/wiki/Provincia_de_Bocas_del_Toro)
+  ![Bocas del Toro](https://content.r9cdn.net/rimg/dimg/7d/3e/c3e5ad61-city-33356-16c4e19af0e.jpg?crop=true&width=1366&height=768&xhint=1586&yhint=1227)
     + Distrito de Bocas del Toro (Isla Colón)
     + Distrito de Changuinola
     + Distrito de Almirante
     + Distrito de Chiriquí Grande
     
   - [Provincia de Coclé](https://es.wikipedia.org/wiki/Provincia_de_Cocl%C3%A9)
+  ![Provincia de Cocle](https://cdn.bmpcloud.com/elements/cms/business/believe/images/destinos/nacionales/cocle/portada-cocle.jpg)
     + Distrito de Penonomé
     + Distrito de Aguadulce
     + Distrito de La Pintada
@@ -39,6 +41,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Natá
     
   - [Provincia de Colón](https://es.wikipedia.org/wiki/Provincia_de_Col%C3%B3n)
+  ![Colon](https://3.bp.blogspot.com/-OMRymPVSK1c/Wo6wL7DgbxI/AAAAAAAAMzI/lUd8Oe6TXdYx8KY2oHyhKsP1gHeHX7-LQCLcBGAs/s1600/maxresdefault.jpg)
     + Distrito de Colón
     + Distrito de Portobelo
     + Distrito de Donoso
@@ -47,6 +50,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito Especial Omar Torrijos Herrera
     
   - [Provincia de Chiriquí](https://es.wikipedia.org/wiki/Provincia_de_Chiriqu%C3%AD)
+  ![Chiriqui](https://elcapitalfinanciero.com/wp-content/uploads/2018/01/Feria-de-Boquete-ATP.jpg)
     + Distrito de Barú
     + Distrito de Renacimiento
     + Distrito de Bugaba
@@ -63,6 +67,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Gualaca
     
   - [Provincia de Darién](https://es.wikipedia.org/wiki/Provincia_de_Dari%C3%A9n)
+  ![Darien](https://images.myguide-cdn.com/content/1/large/darien-497089.jpg)
     + Distrito de Pinogana
     + Distrito de Chepigana
     + Distrito de Santa Fe
