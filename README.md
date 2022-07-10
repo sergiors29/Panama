@@ -26,6 +26,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Changuinola
     + Distrito de Almirante
     + Distrito de Chiriquí Grande
+    
   - Provincia de Coclé
     + Distrito de Penonomé
     + Distrito de Aguadulce
@@ -33,6 +34,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Antón
     + Distrito de Olá
     + Distrito de Natá
+    
   - Provincia de Colón
     + Distrito de Colón
     + Distrito de Portobelo
@@ -40,6 +42,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Chagres
     + Distrito de Santa Isabel
     + Distrito Especial Omar Torrijos Herrera
+    
   - Provincia de Chiriquí
     + Distrito de Barú
     + Distrito de Renacimiento
@@ -55,12 +58,14 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de San Lorenzo
     + Distrito de Dolega
     + Distrito de Gualaca
+    
   - Provincia de Darién
     + Distrito de Pinogana
     + Distrito de Chepigana
     + Distrito de Santa Fe
     + Distrito de Cémaco (Comarca Emberá)
     + Distrito de Sambú (Comarca Emberá)
+    
   - Provincia de Herrera
     + Distrito de Chitré
     + Distrito de Los Pozos
@@ -69,6 +74,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Las Minas
     + Distrito de Santa María
     + Distrito de Ocú
+    
   - Provincia de Los Santos
     + Distrito de Las Tablas
     + Distrito de Los Santos
@@ -77,6 +83,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Guararé
     + Distrito de Pedasí
     + Distrito de Tonosí
+    
   - Provincia de Panamá
     + Distrito de Balboa
     + Distrito de Panamá
@@ -84,12 +91,14 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Chepo
     + Distrito de Chimán
     + Distrito de Taboga
+    
   - Provincia de Panamá Oeste
     + Distrito de Arraiján
     + Distrito de La Chorrera
     + Distrito de Capira
     + Distrito de Chame
     + Distrito de San Carlos
+    
   - Provincia de Veraguas
     + Distrito de Atalaya
     + Distrito de Mariato
@@ -103,6 +112,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Montijo
     + Distrito de La Mesa
     + Distrito de Calobre
+    
   - Comarca Ngäbe-Buglé
     + Distrito de Besikó
     + Distrito de Jirondai
@@ -113,4 +123,5 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito de Nole Duima
     + Distrito de Ñürüm
     + Distrito de Santa Catalina o Calovébora
+    
   - Comarca Guna Yala
