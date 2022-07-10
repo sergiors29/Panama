@@ -133,4 +133,4 @@ Con la sintaxis de Markdown se pueden colocar imágenes de forma sencilla. Así:
   
 ![Mapa de la República de Panamá](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mapa_de_Panam%C3%A1.svg/3014px-Mapa_de_Panam%C3%A1.svg.png)
 
-El sistema tambien nos permite agregar enlaces para acceder a otros sitios web o documentos. Ejemplos ya planteados en lineas anteriores.
+El sistema tambien nos permite agregar [enlaces](https://www.mclibre.org/consultar/htmlcss/html/html-enlaces.html) para acceder a otros sitios web o documentos. Ejemplos ya planteados en lineas anteriores.
