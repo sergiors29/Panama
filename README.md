@@ -1,4 +1,8 @@
+<center>
+  
 # Página principal de Panamá
+
+</center>
 
 Esta es la página principal de acceso a un nuevo repositorio de prueba, para afianzar conocimientos adquiridos en reciente curso universitario en España.
 
