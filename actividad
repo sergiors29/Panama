@@ -1,5 +1,5 @@
-## Nuevo archivo creado desde Git Bash
+# Nuevo archivo creado desde Git Bash
 
-Este es el primer archivo creado desde la terminal de Git Bash. Será añadido a nuestro repositorio de __Github__.
+Este es el primer archivo creado desde la terminal de Git Bash. Será añadido a nuestro repositorio de _Github_.
 
 
