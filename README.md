@@ -126,3 +126,11 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     
   - Comarca Guna Yala
     + No tiene distritos
+    
+## Segundo punto.
+
+Con la sintaxis de Markdown se pueden colocar imágenes de forma sencilla. Así:
+
+![Mapa de la República de Panamá](https://nah.wikipedia.org/wiki/%C4%AAxiptli:Mapa_de_Panam%C3%A1.svg)
+
+
