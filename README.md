@@ -50,7 +50,7 @@ De otro modo, también podemos combinar listas ordenadas y desordenadas. Por eje
     + Distrito Especial Omar Torrijos Herrera
     
   - [Provincia de Chiriquí](https://es.wikipedia.org/wiki/Provincia_de_Chiriqu%C3%AD)
-  ![Chiriqui](https://elcapitalfinanciero.com/wp-content/uploads/2018/01/Feria-de-Boquete-ATP.jpg)
+  ![Chiriqui](https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/panama/Chiriqui_0231_1343d7fb-24d4-44b4-96d6-923beab03d34.jpg)
     + Distrito de Barú
     + Distrito de Renacimiento
     + Distrito de Bugaba
